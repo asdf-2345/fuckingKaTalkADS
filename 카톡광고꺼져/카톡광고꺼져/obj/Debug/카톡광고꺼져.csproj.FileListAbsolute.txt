@@ -1,0 +1,6 @@
+F:\a\카톡광고꺼져\카톡광고꺼져\bin\Debug\카톡광고꺼져.exe.config
+F:\a\카톡광고꺼져\카톡광고꺼져\bin\Debug\카톡광고꺼져.exe
+F:\a\카톡광고꺼져\카톡광고꺼져\bin\Debug\카톡광고꺼져.pdb
+F:\a\카톡광고꺼져\카톡광고꺼져\obj\Debug\카톡광고꺼져.csprojResolveAssemblyReference.cache
+F:\a\카톡광고꺼져\카톡광고꺼져\obj\Debug\카톡광고꺼져.exe
+F:\a\카톡광고꺼져\카톡광고꺼져\obj\Debug\카톡광고꺼져.pdb
